@@ -1,1 +1,1 @@
-# covid19-xray
+######COVID-19 X-ray Classification using CNN Pneumonia Detector
